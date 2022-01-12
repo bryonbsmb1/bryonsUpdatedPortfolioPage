@@ -1,7 +1,14 @@
 /*
  * Globals
  */
-
+ html { 
+  background: url(https://images.unsplash.com/photo-1505238680356-667803448bb6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+}
 
 /* Custom default button */
 .btn-secondary,
@@ -10,6 +17,27 @@
   color: #333;
   text-shadow: none; /* Prevent inheritance from `body` */
 }
+header { font-size: 40px;
+         font-family:Arial, Helvetica, sans-serif;
+         margin: auto ;
+         width: 50%;
+         border: 10 black;
+         padding: 10px;
+         align-items: center;
+         
+
+  
+    
+  }
+
+  .profile-pic { height: 200px;
+                 border-radius: 50%;
+  } 
+
+
+  
+
+
 
 
 /*
@@ -20,7 +48,6 @@ body {
   text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
   box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
 }
-
 .cover-container {
   max-width: 42em;
 }
@@ -30,12 +57,15 @@ body {
  * Header
  */
 
+
+
+
 .nav-masthead .nav-link {
   padding: .25rem 0;
   font-weight: 700;
   color: rgba(255, 255, 255, .5);
   background-color: transparent;
-  border-bottom: .25rem solid transparent;
+  border-bottom: .95rem solid transparent;
 }
 
 .nav-masthead .nav-link:hover,
