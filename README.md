@@ -7,9 +7,7 @@ link to deployed app
 
 * Updated portfolio featuring projects and homework assignments. Completed Github update and also pinned repos with links to assignments, updated resume and LinkedIn profile.
 
-      <p><a href="https://github.com/bryonbsmb1" class="text-blue">GitHub </a><a href="https://twitter.com/bryon_b" class="text-blue">      Twitter</a><a href="mailto:bmsmb1@gmail.com">   Email  </a> </a><a href="https://linkedin.com/in/bryonball/" class="text-blue">  LinkedIn   </a> <a href="https://docs.google.com/document/d/e/2PACX-1vRjWYAEcnBmfyfZBpVD9F2sQjIhkGEXnfYQMDiFhSy8wcmp_TjfOrWh3009sgcSkEl-4bIoknUNlc85/pub" class="text-blue">  Resume   </a>
-
-
+      
 
 
 
