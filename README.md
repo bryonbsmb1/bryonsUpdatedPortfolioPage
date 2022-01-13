@@ -1,25 +1,20 @@
 # bryonsUpdatedPortfolioPage
 Homework 8
 
-Objective
+link to deployed app
 
-* Update portfolio featuring Project 1 and two exemplary homework assignments.
+# Technologies used :HTML,JavaScript,CSS,Bootstrap
 
-* Update GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments.
+* Updated portfolio featuring projects and homework assignments. Completed Github update and also pinned repos with links to assignments, updated resume and LinkedIn profile.
 
-* Update resume
-
-* Update LinkedIn profile
+      <p><a href="https://github.com/bryonbsmb1" class="text-blue">GitHub </a><a href="https://twitter.com/bryon_b" class="text-blue">      Twitter</a><a href="mailto:bmsmb1@gmail.com">   Email  </a> </a><a href="https://linkedin.com/in/bryonball/" class="text-blue">  LinkedIn   </a> <a href="https://docs.google.com/document/d/e/2PACX-1vRjWYAEcnBmfyfZBpVD9F2sQjIhkGEXnfYQMDiFhSy8wcmp_TjfOrWh3009sgcSkEl-4bIoknUNlc85/pub" class="text-blue">  Resume   </a>
 
 
 
 
 
-# 08 Project 1: Professional Materials
 
-Now that you've had some practice with APIs and have a project to share, you'll be updating your portfolio page and other materials to build toward being employer-competitive.
 
-If you are opting out of career services, this is *still a required assignment*. Part of being a web developer means being a part of a community. Having a place to share your projects is *necessary* if you're applying for jobs, but it's also *critical* on your journey as a developer.
 
 
 
